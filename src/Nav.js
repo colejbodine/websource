@@ -4,14 +4,14 @@ import './Nav.css';
 
 const Nav = () => {
     return (
-        <div>
+        <header>
             <nav className="navbar navbar-dark">
                 <div className="container">
-                    <a className="navbar-brand" href="www.google.com">Navbar</a>
+                    <a className="navbar-brand" href="https://www.google.com/">Websource</a>
                     <SearchBox />
                 </div>
             </nav>
-        </div>
+        </header>
     )
 }
 
