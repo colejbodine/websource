@@ -18,4 +18,5 @@ Websource is an open-source app made to share resources that we come across when
 1. First and foremost, getting those "Docs" and "Downloads" buttons working. Should be done in the next update.
 2. Getting the thumbnails to show up properly on the cards. If anyone wants to help figure this out, please, be my guest!
 3. The app is a little bland, so styling will be a must.
-4. If you have any other suggestions, please let me know!
+4. Organizing folders.
+5. If you have any other suggestions, please let me know!
